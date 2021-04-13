@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @girlwcode
 - 👀 I’m interested in Data Science, Machine Learning, and Deep Learning
 - 🌱 I’m currently learning Machine Learning and Data Science
-- 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me ... lynahn@gmail.com
 
 <!---
