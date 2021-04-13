@@ -1,7 +1,7 @@
-<a href="https://instagram.com/alpox.dev">
+<a href="https://instagram.com/girl.w.code">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/girl.w.code/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : 40px; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
 - 👋 Hi, I’m @girlwcode from Seoul, South Korea
