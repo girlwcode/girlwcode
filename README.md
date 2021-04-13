@@ -1,16 +1,16 @@
 
-
+<div align="center">
 - 👋 Hi, I’m @girlwcode from Seoul, South Korea
 - 👀 I’m interested in Data Science, Machine Learning, and Deep Learning
 - 🌱 I’m currently learning Machine Learning and Data Science
 
 - 📫 How to reach me ... yelynahn@gmail.com 
-
+</div>
  
 <br/> 
 <br/> 
  
-## The Languages that I've ever used 
+##  <div align="center"> The Languages that I've ever used </div>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
@@ -27,13 +27,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=girlwcode&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/> 
 
-<div align="center"> 
-![girlwcode's github stats](https://github-readme-stats.vercel.app/api?username=girlwcode&show_icons=true)
-</div>
-<br/> 
-<br/> 
- ## Connect with me
+## <div align="center">Connect with me </div>
 <div align="center">
 <a href="https://github.com/girlwcode" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
