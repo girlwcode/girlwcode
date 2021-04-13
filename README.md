@@ -28,9 +28,9 @@
 </div>
 
 
-
+<div align="center"> 
 ![girlwcode's github stats](https://github-readme-stats.vercel.app/api?username=girlwcode&show_icons=true)
-
+</div>
 <br/> 
 <br/> 
  ## Connect with me
