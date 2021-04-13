@@ -4,9 +4,9 @@
 👀 I’m interested in Data Science, Machine Learning, and Deep Learning <br/>
 🌱 I’m currently learning Machine Learning and Data Science <br/>
 <br/>
-- 📫 How to reach me ... yelynahn@gmail.com 
+📫 How to reach me ... 
 </div>
- 
+yelynahn@gmail.com 
 <br/> 
 <br/> 
  
