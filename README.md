@@ -27,8 +27,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </div>
 
-<br/> 
-<br/> 
+
+
 ![girlwcode's github stats](https://github-readme-stats.vercel.app/api?username=girlwcode&show_icons=true)
 
 <br/> 
