@@ -2,7 +2,7 @@
 <div align="center">
 👋 Hi, I’m @girlwcode from Seoul, South Korea <br/>
 👀 I’m interested in Data Science, Machine Learning, and Deep Learning <br/>
-🌱 I’m currently learning Machine Learning and Data Science <br/>
+🌱 I’m currently learning Deap Learning and Data Science <br/>
 <br/>
 📫 How to reach me ... yelynahn@gmail.com 
 </div>
