@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&duration=20000&color=663399&width=1000&lines=The+great+thing+about+AI+is+that+it+solves+problems+we+didn't+know+existed.)](https://git.io/typing-svg)
 <div align="center">
 <strong>👋 Hi! I'm @girlwcode excited about solving real-world problems.</strong> <br/>
-<strong>👀 I’m interested in Data Science, AI-related topics</strong> <br/>
-<strong>🌱 I’m currently working as an AI Engineer</strong> <br/>
+👀 I’m interested in <strong>Data Science, AI-related topics</strong> <br/>
+🌱 I’m currently working as an <strong>AI Engineer</strong> <br/>
 <br/>
-📫 How to reach me ... yelynahn@gmail.com 
+📫 How to reach me ... <strong>yelynahn@gmail.com</strong> 
 </div>
 <br/> 
 <br/> 
