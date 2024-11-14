@@ -1,15 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=C534D4&width=435&lines=The+great+thing+about+AI+is;+it+solves+problems+that;we+didn't+know+existed.)](https://git.io/typing-svg)
 
 <div align="center">
 👋 Hi, I’m @girlwcode from Seoul, South Korea <br/>
-👀 I’m interested in Data Science, Machine Learning, and Deep Learning <br/>
-🌱 I’m currently learning Deap Learning and Data Science <br/>
+👀 I’m interested in Data Science, AI-related topics <br/>
+🌱 I’m currently working as an AI Engineer <br/>
 <br/>
 📫 How to reach me ... yelynahn@gmail.com 
 </div>
 <br/> 
 <br/> 
  
-##  <div align="center"> The Languages that I've ever used </div>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <br/>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -34,10 +35,7 @@
 </div>
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=girlwcode&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/> 
-
-## <div align="center">Connect with me </div>
+<h3 align="center">📫 Contact 📫</h3>
 <div align="center">
 <a href="https://github.com/girlwcode" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
