@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=663399&width=1000&lines=The+great+thing+about+AI+is+it+solves+problems+we+didn't+know+existed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=663399&width=1000&lines=++++The+great+thing+about+AI+is+it+solves+problems+we+didn't+know+existed)](https://git.io/typing-svg)
 <div align="center">
 **👋 Hi! I'm @girlwcode excited about solving real-world problems.** <br/>
 👀 I’m interested in Data Science, AI-related topics <br/>
