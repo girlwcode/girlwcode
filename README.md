@@ -1,6 +1,6 @@
 <div align="center">
- 
-**👋 Hi! I'm @girlwcode excited about solving real-world problems."** <br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=663399&width=435&lines=The+great+thing+about+AI+is;it+solves+problems;we+didn't+know+existed)](https://git.io/typing-svg)
+**👋 Hi! I'm @girlwcode excited about solving real-world problems.** <br/>
 👀 I’m interested in Data Science, AI-related topics <br/>
 🌱 I’m currently working as an AI Engineer <br/>
 <br/>
@@ -12,15 +12,22 @@
 <h3 align="center">✨ Tech Stack ✨</h3>
 <br/>
 <div align="center">   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="20" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="20" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" height="20" />
-<img style="margin: 10px" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" height="20" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" alt="Liux" height="20" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="20" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
 <br/>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="20" />  
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" alt="Google colab" height="20" />
+<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<br/>
+<img style="margin: 10px" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<br/>
+<img style="margin: 10px" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+<img style="margin: 10px" src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white" alt="Google colab" height="20" />
 </div>
 <br/>
 
