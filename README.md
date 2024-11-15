@@ -2,7 +2,7 @@
 <div align="center">
 <strong>👋 Hi! I'm @girlwcode and I'm excited about solving real-world problems.</strong> <br/>
 👀 I’m interested in <strong>Data Science, AI-related topics!</strong> <br/>
-👩‍💻 I’m currently working as an <strong>AI researcher</strong> <br/>
+👩‍💻 I’m currently working as an <strong>AI researcher.</strong> <br/>
 <br/>
 📫 How to reach me ... <strong>yelynahn@gmail.com</strong> 
 </div>
