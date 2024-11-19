@@ -46,11 +46,11 @@
 <br/>
 </div>
 <h3 align="center">📫 Contact & Portfolio 📫</h3>
-<div align="center">
-<a href="http://linkedin.com/in/yelyn-ahn-a543591b7" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://yelynahn.notion.site/AI-f6dc03def7094ab98903f0ac7e25e51f" target="_blank">
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</a>
+<div align="center" >
+    <a href="https://www.linkedin.com/in/yelyn-ahn/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="https://yelynahn.notion.site/AI-f6dc03def7094ab98903f0ac7e25e51f" target="_blank">
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+    </a>
 </div>
